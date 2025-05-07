@@ -1,0 +1,10 @@
+.metadata/
+.settings/
+.classpath
+.project
+
+# Binários Java
+/bin/
+
+# Arquivos de log, temporários etc.
+*.log
